@@ -4,4 +4,4 @@
 [2019年度シラバス](https://github.com/nit-ibaraki-program-design/lecture/blob/master/src/SyllabusPDF.pdf)
 
 ## 講義資料（前期）
-* 前期 第1週（4月10日）： 準備･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/ouyou1-01.pdf)
+* 前期 第1週（4月10日）： 準備･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd1-01.pdf)
