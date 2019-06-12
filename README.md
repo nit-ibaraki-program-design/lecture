@@ -15,4 +15,4 @@
 * 前期 第6週（5月22日）： Javaの基礎演習･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd1-06.pdf), [課題解答](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd1-06-ans.pdf)
 * 前期 小テスト（5月29日）：[test105.java](https://raw.githubusercontent.com/nit-ibaraki-program-design/lecture/master/src/week105/test105.java), [定期試験について](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd1-06+.pdf),  [昨年度の前期中間試験](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/2018-pd1-mid.pdf)
 * 前期 第7週：前期中間試験
-* 前期 第8週（6月12日）： 可視化によるメンバへのアクセス制御･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd1-08.pdf), [test108.java](https://raw.githubusercontent.com/nit-ibaraki-program-design/lecture/master/src/week108/test108.java)
+* 前期 第8週（6月12日）： 可視化によるメンバへのアクセス制御･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd1-08.pdf), [1_08_Car.java](https://raw.githubusercontent.com/nit-ibaraki-program-design/lecture/master/src/week108/1_08_Car.java)
