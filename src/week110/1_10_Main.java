@@ -27,6 +27,7 @@ class Pd10Base2 {
         bases[0] = new Base(100);
         bases[1] = new Even(200);
         //ここに追加する
+
     }
 }
 
@@ -48,25 +49,6 @@ class Pd10Length2 {
         ls[2] = new Cube(10, 30, 5);
         ls[3] = new Length(8, 6);
         //ここに追加する
-    }
-}
 
-class Pd10test {
-    public static void main(String[] args) {
-        //インスタンスを作成する
-        Base b1 = new Base();
-        Base b2 = new Positive();
-        //showNumの動作確認
-        System.out.println("--- b1 ---");
-        b1.showNum();
-        System.out.println("--- b2 ---");
-        b2.showNum();
-        //setNumの動作確認
-        System.out.println("--- 正の値の場合 ---");
-        b2.setNum(7);
-        b2.showNum();
-        System.out.println("--- 負の値の場合 ---");
-        b2.setNum(-3);
-        b2.showNum();
     }
 }
