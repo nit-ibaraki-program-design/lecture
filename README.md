@@ -7,7 +7,7 @@
 [https://classroom.github.com/a/cEaFm2T5](https://classroom.github.com/a/cEaFm2T5)
 
 ## 講義資料（後期）
-* 後期 第1週（9月30日）： UMLの概要とクラス図･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-01.pdf), [2_01_schedule.asta](https://raw.githubusercontent.com/nit-ibaraki-program-design/lecture/master/src/week102/2_01_schedule.asta)
+* 後期 第1週（9月30日）： UMLの概要とクラス図･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-01.pdf), [2_01_schedule.asta](https://raw.githubusercontent.com/nit-ibaraki-program-design/lecture/master/src/week201/2_01_schedule.asta)
 * 後期 第2週（10月7日）： クラス図（クラス間の関係）･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-02.pdf)
 
 ## 講義資料（前期）
