@@ -1,6 +1,6 @@
 public void update() {
     l1.removeAll();
-    Todo[] l = todolist.getList();
+    Todo[] l = todolist.getTodo();
     for(int i=0; i<l.length; i++) {
         String str = "";
         str += "[" + String.valueOf(i) + "] ";

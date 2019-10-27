@@ -19,7 +19,7 @@ class TodoMain2 {
         Todo t1 = new Todo();
         t1.setName("Prepare Halloween");
         t1.setPriority(1);
-        t1.setDeadline(d1);
+        t1.setDate(d1);
         Todo t2 = new Todo();
         
         //todolistに追加してみる（追加すると自動的にViewが更新される）
