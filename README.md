@@ -9,8 +9,9 @@
 ## 講義資料（後期）
 * 後期 第1週（9月30日）： UMLの概要とクラス図･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-01.pdf), [2_01_schedule.asta](https://raw.githubusercontent.com/nit-ibaraki-program-design/lecture/master/src/week201/2_01_schedule.asta), [別紙プログラム](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-01-src.pdf)
 * 後期 第2週（10月7日）： クラス図（クラス間の関係）･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-02.pdf), [課題解答（第1週, 第2週）](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-02-ans.pdf)
-* 後期 第3週（10月14日）： UMLからコードの生成･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-03.pdf),  [2_03_main.java](https://raw.githubusercontent.com/nit-ibaraki-program-design/lecture/master/src/week203/2_03_main.java)
-* 後期 第4週（10月21日）：前回の続き
+* 後期 第3週（10月14日）： UMLからコードの生成･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-03.pdf), [2_03_main.java](https://raw.githubusercontent.com/nit-ibaraki-program-design/lecture/master/src/week203/2_03_main.java), [課題解答](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-03-ans.pdf), [解答のクラス図（2_03_todo_ans.asta）](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/2_03_todo_ans.asta)
+* 後期 第4週（10月21日）： 前回の続き
+* 後期 第5週（10月28日）： MVCによるクラス設計（1）･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-05.pdf), [2_05_update.java](https://raw.githubusercontent.com/nit-ibaraki-program-design/lecture/master/src/week205/2_05_update.java), [2_05_TodoMain2.java](https://raw.githubusercontent.com/nit-ibaraki-program-design/lecture/master/src/week205/2_05_TodoMain2.java)
 
 ## 講義資料（前期）
 * 前期 第1週（4月10日）： 準備･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd1-01.pdf), [課題解答](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd1-01-ans.pdf)
