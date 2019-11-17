@@ -13,6 +13,9 @@
 * 後期 第4週（10月21日）： 前回の続き
 * 後期 第5週（10月28日）： MVCによるクラス設計（1）･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-05.pdf), [2_05_update.java](https://raw.githubusercontent.com/nit-ibaraki-program-design/lecture/master/src/week205/2_05_update.java), [2_05_TodoMain2.java](https://raw.githubusercontent.com/nit-ibaraki-program-design/lecture/master/src/week205/2_05_TodoMain2.java), [課題解答](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-05-ans.pdf), [解答のクラス図（2_05_todo_ans.asta）](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/week206/2_05_todo_ans.asta)
 * 後期 第6週（11月7日）： MVCによるクラス設計（2）･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-06.pdf), [add.java](https://raw.githubusercontent.com/nit-ibaraki-program-design/lecture/master/src/week206/add.java), [action.java](https://raw.githubusercontent.com/nit-ibaraki-program-design/lecture/master/src/week206/action.java), [2_06_TodoMain3.java](https://raw.githubusercontent.com/nit-ibaraki-program-design/lecture/master/src/week206/2_06_TodoMain3.java), [課題解答](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-06-ans.pdf), [昨年度の後期中間試験](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/2018-pd2-mid.pdf)
+* 後期 第7週：後期中間試験
+* 後期 第8週（11月18日）： シーケンス図（1）･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-08.pdf), [別紙プログラム](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-08-src.pdf)
+
 
 ## 講義資料（前期）
 * 前期 第1週（4月10日）： 準備･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd1-01.pdf), [課題解答](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd1-01-ans.pdf)
