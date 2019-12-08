@@ -16,7 +16,8 @@
 * 後期 第7週：後期中間試験･･･ [問題と模範解答](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/2019-pd2-mid.pdf)
 * 後期 第8週（11月18日）： シーケンス図（1）･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-08.pdf), [別紙プログラム](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-08-src.pdf)
 * 後期 第9週（11月25日）： シーケンス図（2）･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-09.pdf), [課題解答](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-09-ans.pdf)
-* 後期 第10週（12月2日）： ステートマシン図, アクティビティ図･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-10.pdf)
+* 後期 第10週（12月2日）： ステートマシン図, アクティビティ図･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-10.pdf), [課題解答](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-10-ans.pdf)
+* 後期 第11週（12月9日）： ユースケース図･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-11.pdf)
 
 ## 講義資料（前期）
 * 前期 第1週（4月10日）： 準備･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd1-01.pdf), [課題解答](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd1-01-ans.pdf)
