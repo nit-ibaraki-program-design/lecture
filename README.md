@@ -22,6 +22,8 @@
 * 後期 第13週（12月23日）： デザインパターン･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-13.pdf), [week213.zip](https://raw.githubusercontent.com/nit-ibaraki-program-design/lecture/master/src/week213/week213.zip)
 * 後期 第14週（1月6日）： ソフトウェア工学について, ステートマシン図とプログラムの対応･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-14.pdf), [pd2-14-sample.c](https://raw.githubusercontent.com/nit-ibaraki-program-design/lecture/master/src/week214/pd2-14-sample.c)
 * 後期 第15週（1月20日）： IDEによるJavaアプリケーション開発･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-15.pdf), [昨年度の後期期末試験](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/2018-pd2-term.pdf)
+* 後期 小テスト･･･[第10週](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-test210.pdf), [第12週](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd2-test212.pdf)
+* 後期 第16週：後期期末試験･･･ [問題と模範解答](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/2019-pd2-term.pdf)
 
 ## 講義資料（前期）
 * 前期 第1週（4月10日）： 準備･･･[講義資料](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd1-01.pdf), [課題解答](https://github.com/nit-ibaraki-program-design/lecture/raw/master/src/pd1-01-ans.pdf)
